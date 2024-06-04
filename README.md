@@ -1,1 +1,2 @@
 # python-portfolio
+API created to track the daily % change in Nvidia's stock performance. The reason I chose this stock was because I've buying eyeing it since December of 2022 and my family invested in the stock at the time. Since then, it's skyrocketed a mere 1,000% and while my family and I still have positions in it, I'd like to keep track of the stock without having to check the market daily. I've connected the API to Twilio, where I would receive a text with an update of the stock's performance, and any news article related to Nvidia and its performance. 
